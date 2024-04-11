@@ -1,5 +1,6 @@
 # click_widgets
 
+https://github.com/mayuuu05/click_widgets/assets/149376263/0dc22a73-3606-4aae-b9b9-936cd332fa45
 <p align="center">
   <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/5827e3b2-0a20-4ebc-9b9a-96df72c2e6f4" width=22% height=35% >
    <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/3cd624ae-2144-490c-b7e9-548a9ff48852" width=22% height=35% >
@@ -13,8 +14,10 @@
     <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/3d6860bf-96a7-420a-89c6-ea19d4c93057" width=22% height=35% >
 </p>
 
-Screen Recording 
-https://github.com/mayuuu05/click_widgets/assets/149376263/0dc22a73-3606-4aae-b9b9-936cd332fa45
+
+
+
+
 
 
 A new Flutter project.

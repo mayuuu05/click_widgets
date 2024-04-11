@@ -24,7 +24,7 @@ class _CalculatorState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:DynamicList() ,
+      home:IconEditor() ,
     );
   }
 }

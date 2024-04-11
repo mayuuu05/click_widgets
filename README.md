@@ -13,7 +13,7 @@
     <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/3d6860bf-96a7-420a-89c6-ea19d4c93057" width=22% height=35% >
 </p>
 
-Screen Recorsinds
+Screen Recording 
 
 https://github.com/mayuuu05/click_widgets/assets/149376263/9dfb15e8-5907-47e4-b3e4-ccd6c9e476af
 https://github.com/mayuuu05/click_widgets/assets/149376263/1fcb25e4-76b8-4675-850d-51c0acd409b1

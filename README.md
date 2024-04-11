@@ -1,8 +1,5 @@
 # click_widgets
 
-
-
-
 <p align="center">
   <img src = "https://github.com/mayuuu05/widgets/assets/149376263/1ed787c9-c13a-49f5-b56d-98afd52df3e1" width=22% height=35% >
    <img src = "https://github.com/mayuuu05/widgets/assets/149376263/b06266bf-f392-4d7a-a006-55021dd10453" width=22% height=35% >

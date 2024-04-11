@@ -5,7 +5,8 @@ https://github.com/mayuuu05/click_widgets/assets/149376263/be5d3114-ce7d-400e-98
 https://github.com/mayuuu05/click_widgets/assets/149376263/72af8ec5-8a72-455d-a546-f32445d2dbdb
 https://github.com/mayuuu05/click_widgets/assets/149376263/b24bbf45-7287-4211-8467-13cd5b33b5af
 https://github.com/mayuuu05/click_widgets/assets/149376263/478a08c4-33a5-4703-aa33-34db0a9a2365
-<br></br>
+
+
 <p align="center">
   <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/5827e3b2-0a20-4ebc-9b9a-96df72c2e6f4" width=22% height=35% >
    <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/3cd624ae-2144-490c-b7e9-548a9ff48852" width=22% height=35% >

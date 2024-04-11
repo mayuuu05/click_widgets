@@ -14,12 +14,7 @@
 </p>
 
 Screen Recording 
-
-https://github.com/mayuuu05/click_widgets/assets/149376263/9dfb15e8-5907-47e4-b3e4-ccd6c9e476af
-https://github.com/mayuuu05/click_widgets/assets/149376263/1fcb25e4-76b8-4675-850d-51c0acd409b1
-https://github.com/mayuuu05/click_widgets/assets/149376263/8c829902-078a-4fbc-8813-de9746a7a61a
-https://github.com/mayuuu05/click_widgets/assets/149376263/a9a09566-3363-409a-b0fc-51c7c8a8ad94
-https://github.com/mayuuu05/click_widgets/assets/149376263/c6192353-5c91-49c0-ad19-2db2fcfae915
+https://github.com/mayuuu05/click_widgets/assets/149376263/0dc22a73-3606-4aae-b9b9-936cd332fa45
 
 
 A new Flutter project.

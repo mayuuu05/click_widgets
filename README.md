@@ -10,7 +10,9 @@
 </br>
    <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/8dde1e54-f825-4aad-94f8-c964183ec7a6" width=22% height=35% >
     <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/e32b4191-58a9-4650-8ce0-697f82cf5431" width=22% height=35% >
+    <img src = "https://github.com/mayuuu05/click_widgets/assets/149376263/3d6860bf-96a7-420a-89c6-ea19d4c93057" width=22% height=35% >
 </p>
+
 
 A new Flutter project.
 
